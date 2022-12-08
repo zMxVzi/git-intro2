@@ -1,2 +1,2 @@
 Primer archivo en git-intro2
-Segunda modificacion de este txt
+Segunda modificacion de este documento de texto
